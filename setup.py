@@ -1,7 +1,7 @@
 from setuptools import setup, find_namespace_packages
 
 setup(
-    name='Clean folder',
+    name='clean_folder',
     version='0.0.1',
     description='HW 07. Clean folder',
     author='OSmit',
